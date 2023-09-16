@@ -15,6 +15,8 @@ This repository contains the implementation of the "A Neural Probabilistic Langu
 
 The dataset used in this project consists of company names. The data was pulled from Kaggle [here](https://www.kaggle.com/datasets/peopledatalabssf/free-7-million-company-dataset). It's essential to preprocess your dataset according to your specific requirements before using it for training and evaluation. Or else!
 
+The data is read from a data folder, in a file saved as _companies\_sorted.csv_.
+
 ## Implementation Details
 
 ### Jupyter Notebook
