@@ -49,7 +49,7 @@ The choice is yours.
 To train the Neural Probabilistic Language Model on your dataset, follow these steps:
 
 1. Preprocess your dataset and organize it as required by the notebook.
-2. Open the Jupyter Notebook Neural_Language_Model.ipynb.
+2. Open the Jupyter Notebook mlp_company_names.ipynb.
 3. Execute the code cells in the notebook, following the instructions provided.
 
 ### Evaluation
